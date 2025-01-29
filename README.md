@@ -1,16 +1,27 @@
-# notebook
+# Notes App
 
-A new Flutter project.
+## Overview
+A simple and intuitive Notes application built with Flutter that uses Firebase for user authentication and cloud storage. Users can create, edit, and delete notes, which are securely stored in Firebase Cloud Storage.
 
-## Getting Started
+## Features
+- User authentication using Firebase Auth
+- Create, edit, and delete notes
+- Store notes in Firebase Cloud Storage
+- Responsive design for both mobile phones and tablets
+- Offline data access and synchronization
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Firebase
+  - Firebase Authentication
+  - Firebase Cloud Storage
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+- Flutter SDK
+- Android Studio or Visual Studio Code
+- Firebase account
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![login](https://github.com/user-attachments/assets/bd8bfd7b-927d-42ee-bb80-4a44680911ca)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![homepage](https://github.com/user-attachments/assets/71ba69de-76f4-4527-8d11-d9fc3a6f7ff4)
