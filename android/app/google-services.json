@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365920485285",
+    "project_id": "notepad-bd83a",
+    "storage_bucket": "notepad-bd83a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365920485285:android:6169afa22b360c21d6724c",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-yWIivVJl1-2RUAdLBrZFs2nr-uJ33dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
