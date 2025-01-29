@@ -21,7 +21,8 @@ A simple and intuitive Notes application built with Flutter that uses Firebase f
 - Flutter SDK
 - Android Studio or Visual Studio Code
 - Firebase account
+- 
+![login](https://github.com/user-attachments/assets/57143602-1fe4-477a-b642-d7c326cc5c3a)
 
-![login](https://github.com/user-attachments/assets/bd8bfd7b-927d-42ee-bb80-4a44680911ca)
+![homepage](https://github.com/user-attachments/assets/91d407ff-154e-49f7-bfad-47c8c43269d5)
 
-![homepage](https://github.com/user-attachments/assets/71ba69de-76f4-4527-8d11-d9fc3a6f7ff4)
