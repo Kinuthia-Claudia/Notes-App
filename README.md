@@ -8,7 +8,7 @@ A simple and intuitive Notes application built with Flutter that uses Firebase f
 - Create, edit, and delete notes
 - Store notes in Firebase Cloud Storage
 - Responsive design for both mobile phones and tablets
-- Offline data access and synchronization
+- Responsive Login Animatics
 
 ## Technologies Used
 - Flutter
@@ -16,6 +16,7 @@ A simple and intuitive Notes application built with Flutter that uses Firebase f
   - Firebase Authentication
   - Firebase Cloud Storage
 - Dart
+- Rive
 
 ## Requirements
 - Flutter SDK
